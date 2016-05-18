@@ -8,7 +8,6 @@ Example:LCH.exe -l
   -d Delete history
 
 Coded by [iframe@T00LS
-
 使用vc++  VS2010 开发
 
 
